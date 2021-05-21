@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Final_report/Final_report.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
