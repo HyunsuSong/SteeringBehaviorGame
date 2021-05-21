@@ -2,8 +2,6 @@
 
 이름: 송현수
 
-학번: 20161642
-
 # 구성
 
 구현한 조종 행동은 Arrive, Flee, Evade, Pursuit, Wander, Wall_avoidance, offsetPursuit
